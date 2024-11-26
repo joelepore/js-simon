@@ -39,6 +39,7 @@ input {
   background-color: #424242;
   text-align: center;
   color: var(--color-text);
+  margin-inline: 0.3rem;
 }
 
 /* Rimuovo le frecce dall'input number */
