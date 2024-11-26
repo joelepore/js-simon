@@ -37,6 +37,7 @@ p {
 input {
   width: 4rem;
   background-color: #424242;
+  text-align: center;
   color: var(--color-text);
 }
 
