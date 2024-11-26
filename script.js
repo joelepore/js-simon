@@ -6,7 +6,7 @@ const ulNumbers = document.querySelector('.numbers');
 const ulInputNumbers = document.querySelector('.input-numbers');
 const inputNumbers = Array.from(document.querySelectorAll('input'));
 
-const timeToStart = 3; // Variabile che salva i secondi da cui far partire il gioco
+const timeToStart = 10; // Variabile che salva i secondi da cui far partire il gioco
 const startMessage = 'Memorizza i numeri';
 const middleMessage = 'Inserisci i numeri che ti ricordi';
 const middleMessageSubtitle = 'L\'ordine non e\' importante.';
